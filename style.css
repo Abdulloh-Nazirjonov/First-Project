@@ -238,3 +238,38 @@
     background: rgba(39, 50, 62, 1);
     font-size: 70px;
 }
+
+.b1 {
+    width: 50%;
+    height: 100%;
+    border: 4px rgb(0, 255, 51) solid;
+}
+
+.b2 {
+    width: 50%;
+    height: 100%;
+    border: 4px red solid;
+}
+
+.b1 h1 {
+    width: 500px;
+    height: 80px;
+    color: whitesmoke;
+    font-size: 56px;
+    font-weight: 700;
+    margin: 40px;
+}
+
+.name1 {
+    width: 130px;
+    height: 42px;
+    border-radius: 25px;
+    border: 2px rgba(252, 74, 26, 1) solid;
+    font-size: 13px;
+    background: none;
+    color: rgba(122, 122, 122, 1);
+   margin-left: 49px;
+}
+.name1 ::placeholder{
+    margin-left: 5px;
+}
